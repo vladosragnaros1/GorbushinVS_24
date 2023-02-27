@@ -17,3 +17,10 @@ print('Kak dela?')
 print('qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq')
 print('Hello world')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+def scripts(a,b):
+    print(a+b)
+    return a+b
+
+a = 5
+b = 10
+scripts(a,b)
